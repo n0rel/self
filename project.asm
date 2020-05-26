@@ -1,3 +1,8 @@
+; Norel Glick's Portal Snake coded in 86x assembly.
+; Project was made as the 30% of my Bagrut in Computer Science
+; Teacher: Inon Barnea
+
+
 IDEAL
 MODEL small
 STACK 1000h
